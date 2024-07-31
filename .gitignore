@@ -1,2 +1,2 @@
-flask_ml
-.ipynb_checkpoints
+flask_ml/
+.ipynb_checkpoints/
