@@ -6,3 +6,6 @@ wtforms
 email_validator
 flask-sqlalchemy
 Flask-Cors
+pandas
+scikit-learn
+gunicorn
