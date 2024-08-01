@@ -14,7 +14,7 @@ class InputForm(FlaskForm):
         validators=[DataRequired()]
     )
     
-    data_of_journey = DateField(
+    date_of_journey = DateField(
         label="Date of journey",
         validators=[DataRequired()],
         format='%Y-%m-%d'
