@@ -53,7 +53,7 @@ class InputForm(FlaskForm):
         validators=[DataRequired()]
     )
     
-    additional_onfo = SelectField(
+    additional_info = SelectField(
         label="Additional Info",
         choices= X_data.additional_info
     )
